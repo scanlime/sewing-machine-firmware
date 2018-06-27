@@ -5,7 +5,7 @@ CON
   MAX_RPM = 400
   
 OBJ
-  term : "Parallax Serial Terminal"
+  term : "com.serial.terminal"
   sew : "SewingMachine"
 
 PUB main | pedal

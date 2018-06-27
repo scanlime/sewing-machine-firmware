@@ -3,7 +3,7 @@ CON
   _xinfreq = 5_000_000
 
 OBJ
-  term : "Parallax Serial Terminal"
+  term : "com.serial.terminal"
   sew : "SewingMachine"
 
 PUB main | pedal
